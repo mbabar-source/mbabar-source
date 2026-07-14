@@ -10,22 +10,14 @@ I believe the best way to learn technology is by building real applications, und
 
 🧰 Tech Stack
 
-Languages & Backend
-
-Python · FastAPI · REST APIs · SQL
-
-AI & Generative AI
-
-OpenAI API · Prompt Engineering · RAG · AI Agents · Structured JSON Outputs
-
-Database & Tools
-
-SQLite · SQLAlchemy · Git · GitHub · PyCharm · Postman
-
-Web Fundamentals
-
-HTML5 · CSS3 · JavaScript
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ⸻
 
 👨‍💻 About Me
